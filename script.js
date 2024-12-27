@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const galleries = [
         {
             path: "pictures/NewYear",
-            photoFiles: ["photo1.jpg", "photo2.jpg", "photo3.jpg"],
+            photoFiles: ["photo1.jpg"],
             imageId: "gallery-image",
             prevBtnId: "prev-btn",
             nextBtnId: "next-btn",
